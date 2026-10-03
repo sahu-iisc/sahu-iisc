@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sahu-iisc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Himanshu Sahu
+- 👀 I’m interested in distributed systems
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on rust open source project
 - 📫 How to reach me himsahu@gmail.com
 
 <!---
